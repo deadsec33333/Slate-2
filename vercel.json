@@ -1,9 +1,0 @@
-{
-    "rewrites": [
-      {
-        "source": "/pong-elon-new-pet-monkey-neuralink",
-        "destination": "/pong-elon-new-pet-monkey-neuralink.html"
-      }
-    ]
-  }
-  
